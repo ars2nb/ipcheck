@@ -1,5 +1,5 @@
 # IPCheck
-🇷🇺 - Расширение для браузера которое показывает всю информацию о вашем IP
+<img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/512px/1f1f7-1f1fa.png" alt="Girl in a jacket" width="500" height="600"> - Расширение для браузера которое показывает всю информацию о вашем IP
 
 🇺🇸 - Browser extension that shows all the information about your IP
 
