@@ -1,5 +1,5 @@
 # IPCheck
-<img src="https://i.ibb.co/8byB6p9/kisspng-flag-of-russia-emoji-5ae5de6495c416-4675961615250141166135.png" width="20px"> - Расширение для браузера которое показывает всю информацию о вашем IP
+<img src="https://i.ibb.co/8byB6p9/kisspng-flag-of-russia-emoji-5ae5de6495c416-4675961615250141166135.png" class="width="20px"> - Расширение для браузера которое показывает всю информацию о вашем IP
 
 <img src="https://i.ibb.co/DrTHLnV/pngwing-com.png" width="20px"> - Browser extension that shows all the information about your IP
 
