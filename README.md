@@ -3,4 +3,4 @@
 
 # Скачать
 
-Скачать zip архив - 
+Скачать zip архив - https://github.com/ars2nb/ipcheck/raw/main/ipcheck.zip
